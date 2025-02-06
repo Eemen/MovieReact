@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Header from "./components/Header";
 import MovieDisplay from "./components/MovieDisplay";
 import MovieSlider from "./components/MovieSlider";
